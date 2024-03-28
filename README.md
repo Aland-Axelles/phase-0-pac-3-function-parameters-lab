@@ -27,6 +27,16 @@ introductionWithLanguageOptional("aland");
 
 
 
+
+
+
+
+
+
+
+
+
+
 # JavaScript Function Parameters Lab
 
 ## Learning Goals
